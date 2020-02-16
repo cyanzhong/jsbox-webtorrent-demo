@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "webtorrent": "^0.107.17"
+  }
+}
